@@ -1,0 +1,17 @@
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\bin\Debug\net8.0-windows\matematikoyunu2.exe
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\bin\Debug\net8.0-windows\matematikoyunu2.deps.json
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\bin\Debug\net8.0-windows\matematikoyunu2.runtimeconfig.json
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\bin\Debug\net8.0-windows\matematikoyunu2.dll
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\bin\Debug\net8.0-windows\matematikoyunu2.pdb
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.Form1.resources
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.csproj.GenerateResource.cache
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.AssemblyInfoInputs.cache
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.AssemblyInfo.cs
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.csproj.CoreCompileInputs.cache
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.sourcelink.json
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.dll
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\refint\matematikoyunu2.dll
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.pdb
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\matematikoyunu2.genruntimeconfig.cache
+C:\Users\HELEN\source\repos\matematikoyunu2\matematikoyunu2\obj\Debug\net8.0-windows\ref\matematikoyunu2.dll
